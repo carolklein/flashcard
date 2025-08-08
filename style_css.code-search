@@ -1,0 +1,9 @@
+# Query: style.css
+# ContextLines: 1
+
+Um resultado - Um arquivo
+
+~/Downloads/index.html:
+  5      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  6:     <link rel="stylesheet" href="assets/style.css">
+  7      <title>Flashcard</title>
